@@ -17,14 +17,18 @@
     {
       "name": "Andrija Dvorski",
       "email": "andrija.dvorski@bornfight.com"
+    },
+    {
+      "name": "Goran Hrženjak",
+      "email": "goran.hrzenjak@hiswen.com"
     }
   ],
   "require": {
     "php": ">=7.2",
     "guzzlehttp/guzzle": "^7.0",
     "ramsey/uuid": "^4",
-    "symfony/property-access": "^5",
-    "symfony/serializer": "^5",
+    "symfony/property-access": "^5|^6",
+    "symfony/serializer": "^5|^6",
     "ext-json": "*"
   },
   "autoload": {
