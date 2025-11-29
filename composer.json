@@ -1,5 +1,5 @@
 {
-  "name": "bornfight/erste-bank-client",
+  "name": "swen-hospitality/erste-bank-client",
   "description": "Client written in PHP for Erste Bank API",
   "keywords": [
     "Erste",
@@ -27,8 +27,8 @@
     "php": ">=7.2",
     "guzzlehttp/guzzle": "^7.0",
     "ramsey/uuid": "^4",
-    "symfony/property-access": "^5|^6",
-    "symfony/serializer": "^5|^6",
+    "symfony/property-access": "^5|^6|^7",
+    "symfony/serializer": "^5|^6|^7",
     "ext-json": "*"
   },
   "autoload": {

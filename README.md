@@ -11,7 +11,7 @@ Supported APIs:
 
 #### Installation via Composer
 ``` bash
-$ composer require bornfight/erste-bank-client
+$ composer require swen-hospitality/erste-bank-client
 ```
 
 #### Running tests
